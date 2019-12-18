@@ -1,3 +1,5 @@
+Open Project1.dev to Start
+
 BatteShip is a game that require your skill and a little bit of luck...
 
 before you play, you will be given 3 choices.you can select small size, which has 3x3 square box or medium size, with 5x5 square box. or large size , with 7x7 square and you can select the level, easy level, medium level or the hardest one.
