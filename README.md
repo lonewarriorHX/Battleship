@@ -1,4 +1,4 @@
-##Battleship C Game
+## Battleship C Game
 Open Project1.dev / Project1.exe to Start 
 
 BatteShip is a game that require your skill and a little bit of luck...
